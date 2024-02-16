@@ -1,2 +1,3 @@
 # Zerodha_project
-This is a clone of Zerodha 
+This is a fullstack clone of Zerodha website. 
+
